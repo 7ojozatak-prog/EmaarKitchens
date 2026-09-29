@@ -1,0 +1,10 @@
+# إعمار للمطابخ — robots.txt
+# ⚠ استبدل النطاق أدناه بالنطاق الحقيقي
+
+User-agent: *
+Allow: /
+
+# لا فائدة من أرشفة ملفات العمل
+Disallow: /README.txt
+
+Sitemap: https://emaarkitchens.com/sitemap.xml
